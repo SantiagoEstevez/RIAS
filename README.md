@@ -28,9 +28,8 @@ You can find the Github Repo here.
 
 Quick start options:
 
-- [Download from Github](https://github.com/creativetimofficial/material-dashboard-angular/archive/master.zip).
-- [Download from Creative Tim](http://www.creative-tim.com/product/material-dashboard-angular2).
-- Clone the repo: `git clone https://github.com/creativetimofficial/material-dashboard-angular.git`.
+- [Download from Github](https://github.com/SantiagoEstevez/RIAS).
+- Clone the repo: `git clone https://github.com/SantiagoEstevez/RIAS`.
 
 ## Terminal Commands
 
